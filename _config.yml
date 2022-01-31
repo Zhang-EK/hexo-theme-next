@@ -40,8 +40,8 @@ custom_file_path:
 # ---------------------------------------------------------------
 
 favicon:
-  small: https://raw.githubusercontent.com/Zhang-EK/blog_img/main/16.png
-  medium: https://raw.githubusercontent.com/Zhang-EK/blog_img/main/32.ico
+  small: /images/16.ico
+  medium: /images/32.ico
   apple_touch_icon: https://raw.githubusercontent.com/Zhang-EK/blog_img/main/da.png
   safari_pinned_tab: https://raw.githubusercontent.com/Zhang-EK/blog_img/main/svg.svg
   #android_manifest: /images/manifest.json
