@@ -117,10 +117,10 @@ darkmode: false
 # External url should start with http:// or https://
 menu:
   主页: / || fa fa-home 
-  关于我们: /about/ || fa fa-user
   标签: /tags/ || fa fa-tags
   分类: /categories/ || fa fa-th
   历史: /archives/ || fa fa-archive
+  关于我们: /about/ || fa fa-user
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
